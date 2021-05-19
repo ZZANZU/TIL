@@ -4,14 +4,14 @@
 어제보다는 하나라도 더 알고있는 zzanzu가 됩시다.
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [AWS DA 덤프 문제 풀이 - S3 multipart upload](AWS/210519-aws-da-s3-multipart-upload.md) - Wed May 19 21:06:46 2021 +0900
 - [AWS DA 덤프 문제 풀이 - SQS](AWS/210519-aws-da-sqs.md) - Wed May 19 20:57:59 2021 +0900
-- [죽은자의 집청소(김완 지음)를 읽고...](Book/210516-죽은자의-집청소.md) - Sun May 16 15:30:16 2021 +0900
 
 ### Categories
 
@@ -21,6 +21,7 @@ _7 TILs and counting..._
 
 ### [AWS](#AWS)
 - [AWS summit(5/11)](AWS/210511-aws-summit.md)
+- [AWS DA 덤프 문제 풀이 - S3 multipart upload](AWS/210519-aws-da-s3-multipart-upload.md)
 - [AWS DA 덤프 문제 풀이 - SQS](AWS/210519-aws-da-sqs.md)
 
 ### [Android](#Android)
