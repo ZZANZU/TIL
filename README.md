@@ -4,14 +4,14 @@
 어제보다는 하나라도 더 알고있는 zzanzu가 됩시다.
 
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [죽은자의 집청소(김완 지음)를 읽고...](Book/210516-죽은자의-집청소.md) - Sun May 16 15:30:16 2021 +0900
 - [안드로이드 RecyclerView의 notifyDataSetChanged(), notifyItemInserted() 에 대한 고려](Android/210513-android-notifydatasetchanged.md) - Thu May 13 16:21:08 2021 +0900
-- [AWS summit(5/11)](AWS/210511-aws-summit.md) - Tue May 11 19:18:29 2021 +0900
 
 ### Categories
 
@@ -29,6 +29,7 @@ _5 TILs and counting..._
 
 ### [Book](#Book)
 - [아이디어 불패의 법칙(알베르토 사보이아 지음)를 읽고...](Book/210509-아이디어-불패의-법칙.md)
+- [죽은자의 집청소(김완 지음)를 읽고...](Book/210516-죽은자의-집청소.md)
 
 [1]: https://dogibogi.co.kr
 [2]: https://github.com/zzanzu/TIL
