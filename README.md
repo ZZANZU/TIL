@@ -4,7 +4,7 @@
 어제보다는 하나라도 더 알고있는 zzanzu가 됩시다.
 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -28,6 +28,7 @@ _8 TILs and counting..._
 - [메모리 사용량이 많은 코드를 찾는 방법](Android/210504-android-profiler.md)
 - [DialogFragment의 Life Cycle](Android/210511-android-dialogfragment-lifecycle.md)
 - [안드로이드 RecyclerView의 notifyDataSetChanged(), notifyItemInserted() 에 대한 고려](Android/210513-android-notifydatasetchanged.md)
+- [안드로이드 ANR 분석하기](Android/210608-android-anr-analysis.md)
 
 ### [Book](#Book)
 - [아이디어 불패의 법칙(알베르토 사보이아 지음)를 읽고...](Book/210509-아이디어-불패의-법칙.md)
