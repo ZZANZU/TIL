@@ -9,7 +9,7 @@
 
 ## 2. 스택 트레이스 로그 분석
 ### 2.1 스택 트레이스 로그 형태
-<img src="https://user-images.githubusercontent.com/26498433/121126428-18e65d80-c863-11eb-9828-8e22c58682d4.png"/>
+<img src="https://user-images.githubusercontent.com/26498433/121179133-4c90aa00-c89a-11eb-8baa-5322f63a97d2.png"/>
 
 ```
 "{스레드 이름}" prio={스레드 우선순위} tid={스레드 ID} {스레드 상태}
