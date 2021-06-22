@@ -4,20 +4,21 @@
 어제보다는 하나라도 더 알고있는 zzanzu가 됩시다.
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [ffmpeg가 뭐야?](ETC/210621-ffmpeg란-무엇인가.md) - Tue Jun 22 20:02:31 2021 +0900
 - [안드로이드 ABI](Android/210615-android-abifilter.md) - Tue Jun 15 22:47:58 2021 +0900
-- [안드로이드 스튜디오 프로젝트에 자리잡은 .idea 폴더는 무엇이며 어떻게 관리할까?](Android/210611-android-idea-folder.md) - Fri Jun 11 21:27:54 2021 +0900
 
 ### Categories
 
 - [AWS](#AWS)
 - [Android](#Android)
 - [Book](#Book)
+- [ETC](#ETC)
 
 ### [AWS](#AWS)
 - [AWS summit(5/11)](AWS/210511-aws-summit.md)
@@ -35,6 +36,9 @@ _11 TILs and counting..._
 ### [Book](#Book)
 - [아이디어 불패의 법칙(알베르토 사보이아 지음)를 읽고...](Book/210509-아이디어-불패의-법칙.md)
 - [죽은자의 집청소(김완 지음)를 읽고...](Book/210516-죽은자의-집청소.md)
+
+### [ETC](#ETC)
+- [ffmpeg가 뭐야?](ETC/210621-ffmpeg란-무엇인가.md)
 
 [1]: https://dogibogi.co.kr
 [2]: https://github.com/zzanzu/TIL
