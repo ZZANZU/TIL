@@ -4,14 +4,14 @@
 어제보다는 하나라도 더 알고있는 zzanzu가 됩시다.
 
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [현재 실행중인 앱의 액티비티 스택 확인하는 방법](Android/210715-android-activity-stack.md) - Thu Jul 15 13:47:31 2021 +0900
 - [ffmpeg가 뭐야?](ETC/210621-ffmpeg란-무엇인가.md) - Tue Jun 22 20:02:31 2021 +0900
-- [안드로이드 ABI](Android/210615-android-abifilter.md) - Tue Jun 15 22:47:58 2021 +0900
 
 ### Categories
 
@@ -32,6 +32,7 @@ _12 TILs and counting..._
 - [안드로이드 ANR 분석하기](Android/210608-android-anr-analysis.md)
 - [안드로이드 스튜디오 프로젝트에 자리잡은 .idea 폴더는 무엇이며 어떻게 관리할까?](Android/210611-android-idea-folder.md)
 - [안드로이드 ABI](Android/210615-android-abifilter.md)
+- [현재 실행중인 앱의 액티비티 스택 확인하는 방법](Android/210715-android-activity-stack.md)
 
 ### [Book](#Book)
 - [아이디어 불패의 법칙(알베르토 사보이아 지음)를 읽고...](Book/210509-아이디어-불패의-법칙.md)
